@@ -1,6 +1,6 @@
 # Sistema Bancário em Python
 
-Um sistema simples de banco desenvolvido em Python uti, izando paradigma POO. O sistema permite cadastrar clientes, criar conta bancárias, realizar saques, depositar e consultar extratos.
+Um sistema simples de banco desenvolvido em Python utilizando paradigma POO. O sistema permite cadastrar clientes, criar conta bancárias, realizar saques, depositar e consultar extratos.
 
 ## Funcionalidades
 
