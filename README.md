@@ -1,18 +1,19 @@
 # Sistema Bancário em Python
 
-Um sistema simples de banco desenvolvido em Python para gerenciar contas, depósitos, saques e transferências.
+Um sistema simples de banco desenvolvido em Python uti, izando paradigma POO. O sistema permite cadastrar clientes, criar conta bancárias, realizar saques, depositar e consultar extratos.
 
 ## Funcionalidades
 
-- Criar contas bancárias
-- Consultar saldo
-- Depositar dinheiro
-- Sacar dinheiro
-- Transferir entre contas
+- Cadastro de clientes com CPF único
+- Criação automática de conta para o cliente
+- Login por CPF
+- Operações bancárias:
+- Saque (limite de R$500,00 por vez)
+- Depósito
+ Consulta de extrato
+- Listagem de clientes cadastrados no banco
 
-## Requisitos
 
-- Python 3.x instalado
 
 ## Instalação
 
